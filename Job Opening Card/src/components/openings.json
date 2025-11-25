@@ -1,0 +1,102 @@
+[
+  {
+    "companyIcon": "https://logo.clearbit.com/google.com",
+    "companyName": "Google",
+    "timeOfOpening": "3 days ago",
+    "position": "Frontend Engineer",
+    "tag1": "Full-time",
+    "tag2": "Junior Level",
+    "pay": "$85/hr",
+    "location": "Bangalore, India"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/meta.com",
+    "companyName": "Meta",
+    "timeOfOpening": "7 days ago",
+    "position": "Machine Learning Engineer",
+    "tag1": "Full-time",
+    "tag2": "Senior Level",
+    "pay": "$120/hr",
+    "location": "Hyderabad, India"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/amazon.com",
+    "companyName": "Amazon",
+    "timeOfOpening": "5 days ago",
+    "position": "Cloud Solutions Architect",
+    "tag1": "Full-time",
+    "tag2": "Mid Level",
+    "pay": "$105/hr",
+    "location": "Mumbai, India"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/apple.com",
+    "companyName": "Apple",
+    "timeOfOpening": "10 days ago",
+    "position": "iOS Developer",
+    "tag1": "Contract",
+    "tag2": "Junior Level",
+    "pay": "$95/hr",
+    "location": "Pune, India"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/netflix.com",
+    "companyName": "Netflix",
+    "timeOfOpening": "2 days ago",
+    "position": "Backend Engineer (GoLang)",
+    "tag1": "Full-time",
+    "tag2": "Senior Level",
+    "pay": "$140/hr",
+    "location": "Remote"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/microsoft.com",
+    "companyName": "Microsoft",
+    "timeOfOpening": "8 days ago",
+    "position": "DevOps Engineer",
+    "tag1": "Full-time",
+    "tag2": "Mid Level",
+    "pay": "$110/hr",
+    "location": "Noida, India"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/tesla.com",
+    "companyName": "Tesla",
+    "timeOfOpening": "6 days ago",
+    "position": "Embedded Systems Engineer",
+    "tag1": "Full-time",
+    "tag2": "Senior Level",
+    "pay": "$130/hr",
+    "location": "Bangalore, India"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/openai.com",
+    "companyName": "OpenAI",
+    "timeOfOpening": "4 days ago",
+    "position": "AI Research Intern",
+    "tag1": "Part-time",
+    "tag2": "Internship",
+    "pay": "$60/hr",
+    "location": "Remote"
+  },
+  {
+    "companyIcon": "https://logo.clearbit.com/nvidia.com",
+    "companyName": "NVIDIA",
+    "timeOfOpening": "9 days ago",
+    "position": "Deep Learning Engineer",
+    "tag1": "Full-time",
+    "tag2": "Senior Level",
+    "pay": "$145/hr",
+    "location": "Pune, India"
+  },
+  {
+    "companyIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCwRXMTVhwsI74bHyyXv72NcujVCojp0xjClOe6urATBVZf9K6t9DDz9legSOVBTzEjU",
+    "companyName": "Adobe",
+    "timeOfOpening": "1 day ago",
+    "position": "UI/UX Designer",
+    "tag1": "Full-time",
+    "tag2": "Mid Level",
+    "pay": "$90/hr",
+    "location": "Gurgaon, India"
+  }
+]
